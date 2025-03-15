@@ -1,4 +1,4 @@
-# Outskill Gen AI Workshop, March 15, 16 2025
+# Outskill Gen AI Workshop, March 15 2025
 - Notes by MD Arshad Khan
 
 __Organizer__: Phani Krishna, Outskill  
