@@ -1,9 +1,6 @@
 # Outskill Gen AI Workshop, March 15 2025
 - Notes by MD Arshad Khan
 
-__Organizer__: Phani Krishna, Outskill  
-__Session 1__: Divij Bajaj, Microsoft
-
 - __Gen AI__ is a type of AI that __creates original content__ - such as test, images, videos - __by learning patterns from large datasets__
 - Use cases of AI
     - Digital assistants
